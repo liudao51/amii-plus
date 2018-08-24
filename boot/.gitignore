@@ -1,0 +1,33 @@
+### Eclipse ###
+.project
+.settings
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.springBeans
+.sts4-cache
+
+### project ###
+/target/
+/log/
+/logs/
+/logger/
+/logging/
+!.mvn/wrapper/maven-wrapper.jar
+*.log
